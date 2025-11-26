@@ -1,3 +1,5 @@
+HOW TO USE: field_zones1.svg
+
 Because the Custom DB extension does not have an option to change the Master Rule 1 Board like it does with modern and mr3, the only way I have found to change it is overriding the SVG file. 
 to do this in chrome: go into a GOAT/Edison game on db and press f12, on the top left of the f12 window make sure "Page" is highlighted. you should see a list under that starting with "Top" 
 and listing a bunch of items with a cloud icon next to them. 
