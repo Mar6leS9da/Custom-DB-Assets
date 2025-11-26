@@ -10,3 +10,5 @@ find the field zones file in there and replace it with the file here, (names mus
 you will have to reload db with f12 open every time you log in to make the change happen, but as long as you don't refresh the page without f12 open, you should be good.
 you will hve to do this process seperately for the replay page, as it recalls all items on intital load.
 if anyone knows how to make these changes permanent without having to open f12 everytime pls lmk
+
+For anyone who wants it I'll be making a youtube tutorial on this too will be linked
