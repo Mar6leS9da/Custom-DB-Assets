@@ -27,7 +27,9 @@ ive also hosted all of my custom images that re natively compatible to imigur, b
 
 6. Right click the file, and select "Override Content" this will prompt you to enable overrides, then create an overrides folder (make this easy to access), and finally it will download the `field_zones1.svg` file 
 
-7. Now open an Edison or GOAT replay and repeat steps 3-6, but instead of creating another override folder, select the one you already made, (it probably auto selects it but I can't remember) then open your overrides folder and it should look like this
+7. Now open an Edison or GOAT replay and repeat steps 3-6, but instead of creating another override folder, select the one you already made, (it probably auto selects it but I can't remember) then open your overrides folder and it should look like this:
+
+8. ![]()
 
 
 9. Take the contents of the DB overrides folder and copy them into your override folder replacing all files in the destination. it should now look like this
