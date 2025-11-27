@@ -9,7 +9,7 @@ So I developed a bit of a workaround, with Google Chrome you can override websit
 >[!NOTE]
 >In my YT video I talk about how to make your own custom `SVG` files and why you'd want to do that in the first place. for this project I used [Boxy SVG Editor](https://boxy-svg.com/app) (not sponsored)
 
-Ive also hosted all of my custom images that are natively compatible with Custom DB to imgur, but you can easily just download my `Custom Db settings json` file and it will apply all of the customization options I have set on my DB (excluding this tutorial of course
+Ive also hosted all of my custom images that are natively compatible with Custom DB to imgur, but you can easily just download the `mar6les_CDB_settings.json` file and add it to Custom DB and it will apply all of the customization options I have set on my DB (excluding this tutorial of course)
 
 # Begin Tutorial
 
