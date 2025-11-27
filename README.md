@@ -36,10 +36,10 @@ Ive also hosted all of my custom images that are natively compatible with Custom
 
 ![](https://github.com/Mar6leS9da/Custom-DB-Assets/blob/a8e03044ad1c12dbbc2c68e63653c25e9fa7045e/Repository%20Assets/step%208.PNG)
 
-9. at this point you should be good to go, refresh DB with f12 open, and go watch another GOAT/Edison duel and the field zones should be applied, you can close the f12 menu and Get Dueling!
-
 >[!NOTE]
 >In the `Asset Examples` folder, you can find some more svg files to play with, you can change out the mr1 zones for these by copying the one you want into both svg folders, deleting the `field_zones1.svg` files, and renaming the new files to, you guessed it, `field_zones1.svg` then in DB with F12 open refresh the page to apply your changes.
+
+9. at this point you should be good to go, refresh DB with f12 open, and go watch another GOAT/Edison duel and the field zones should be applied, you can close the f12 menu and Get Dueling!
 
 >[!IMPORTANT]
 >NOW THAT YOU'VE FINISHED THIS TUTORIAL, ANY TIME YOU OPEN DB, YOU WILL HAVE TO PRESS F12 AND WITH IT OPEN, REFRESH THE PAGE, OTHERWISE THE OVERRIDES WILL NOT TAKE AFFECT. I HAVE NOT FOUND A WAY TO MAKE IT PERMANENT, ANY HELP IN THAT WOULD BE GREATLY APPPRECIATED.
