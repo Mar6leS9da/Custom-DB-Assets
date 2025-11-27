@@ -20,10 +20,10 @@ Ive also hosted all of my custom images that are natively compatible with Custom
 3. Press F12
 
 4. Make sure you are in the in Sources tab, and page tab respectively, then open the dropdown for `images.duelingbook.com`
-![](https://i.imgur.com/eZ1rSW9.png)
+![](https://github.com/Mar6leS9da/Custom-DB-Assets/blob/e64d95e67f6f2bc73a71b1c469935a158b523c04/Repository%20Assets/step%204.PNG)
 
 5. In this dropdown, you're going to open the SVG folder, and scroll unil you find `field_zones1.svg`
-![](https://i.imgur.com/QdQe8PS.png)
+![](https://github.com/Mar6leS9da/Custom-DB-Assets/blob/e64d95e67f6f2bc73a71b1c469935a158b523c04/Repository%20Assets/step%205.PNG)
 
 6. Right click the file, and select "Override Content" this will prompt you to enable overrides, then create an overrides folder (make this easy to access), and finally it will download the `field_zones1.svg` file 
 
@@ -36,7 +36,7 @@ Ive also hosted all of my custom images that are natively compatible with Custom
 
 ![](https://github.com/Mar6leS9da/Custom-DB-Assets/blob/a8e03044ad1c12dbbc2c68e63653c25e9fa7045e/Repository%20Assets/step%208.PNG)
 
-9. at this point you should be good to go, refresh DB with f12 open, and go watch another GOAT/Edison duel and the field zones should be applied, you can close the f12 menu and game away,
+9. at this point you should be good to go, refresh DB with f12 open, and go watch another GOAT/Edison duel and the field zones should be applied, you can close the f12 menu and Get Dueling!
 
 >[!NOTE]
 >In the `Asset Example` folder, you can find some more svg files to play with, you can change out the mr1 zones for these by copying the one you want into both svg folders, deleting the `field_zones1.svg` files, and renaming the new files to, you guessed it, `field_zones1.svg` then in DB with F12 open refresh the page to apply your changes.
